@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e0a4979-4a91-40e6-86af-c5af18618a92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/Content/ProjectsContent/ProjectsContentModel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/Content/ProjectsContent/ProjectsContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/Content/ProjectsContent/ProjectsContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/Content/ProjectsContent/ProjectsContentStyled.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/Content/ProjectsContent/ProjectsContentStyled.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/ModalAtom.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/ModalAtom.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/ModalAtomStyle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Atoms/ModalAtom/ModalAtomStyle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Authenticate/AuthenticateStyle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Authenticate/AuthenticateStyle.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="2ELUYHpSRnnl9RNBGiN761mc7Cb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/Vladut/Documents/Personal/Projects/team-management-fe/src/components/Atoms",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/usr/local/lib/node_modules/prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "ts.external.directory.path": "/Users/Vladut/Documents/Personal/Projects/team-management-fe/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Atoms" />
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0a4979-4a91-40e6-86af-c5af18618a92" name="Changes" comment="" />
+      <created>1662374403623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662374403623</updated>
+      <workItem from="1662374404747" duration="40000" />
+      <workItem from="1662374447401" duration="20000" />
+      <workItem from="1662374470832" duration="7000" />
+      <workItem from="1662374498488" duration="13000" />
+      <workItem from="1662374514447" duration="38000" />
+      <workItem from="1662374567914" duration="17000" />
+      <workItem from="1662374587912" duration="138000" />
+      <workItem from="1662374738770" duration="5000" />
+      <workItem from="1662374746797" duration="28000" />
+      <workItem from="1662374776096" duration="1251000" />
+      <workItem from="1662376749235" duration="19609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
